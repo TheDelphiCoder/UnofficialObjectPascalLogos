@@ -34,12 +34,14 @@ These are the proposal that I've collected so far.
 <img alt="ObjectPascal-Blue" src="proposals/ikelaiah/objectpascal-blue-logo.svg" width="100" />
 </div>
 
-### Jim McKeeth
+### [Jim McKeeth](proposals/jimmckeeth/readme.md)
 <div display="flex">
-<img alt="CircleTriangle" src="proposals/jimmckeeth/CircleTriangle.svg" width="100" />
-<img alt="Fancy" src="proposals/jimmckeeth/FancyP.svg" width="100" />
-<img alt="TheOP" src="proposals/jimmckeeth/TheOP.svg" width="100" />
-<img alt="WordMark" src="proposals/jimmckeeth/Wordmark.svg" width="100" />
+<a href="proposals/jimmckeeth/CircleTriangle.svg"><img alt="Circle Triangle" src="proposals/jimmckeeth/CircleTriangle.svg" width="100" /></a>
+<a href="proposals/jimmckeeth/FancyP.svg"><img alt="Fancy P" src="proposals/jimmckeeth/FancyP.svg" width="100" /></a>
+<a href="proposals/jimmckeeth/TheOP.svg"><img alt="The OP" src="proposals/jimmckeeth/TheOP.svg" width="100" /></a>
+<a href="proposals/jimmckeeth/Wordmark.svg"><img alt="WordMark" src="proposals/jimmckeeth/Wordmark.svg" width="100" /></a>
+<a href="proposals/jimmckeeth/icosahedron-object-pascal-200px.webp"><img alt="icosahedron" src="proposals/jimmckeeth/icosahedron-object-pascal-200px.webp" width="100"></a>
+<a href="proposals/jimmckeeth/TryObjectPascalFinally.svg"><img alt="Try Object Finally Pascal" src="proposals/jimmckeeth/TryObjectPascalFinally.svg" width="100" ></a>
 </div>
 
 ### Marion
